@@ -1,0 +1,2 @@
+# kodluyoruzdate
+## javascript ilk ödev
